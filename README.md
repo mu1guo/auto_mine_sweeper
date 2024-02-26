@@ -42,7 +42,12 @@ A C++ project to design the best strategy for minesweeper game
 
 3.Especially, this is a MFC application. I highly recommend you to download the Visual Studio 2022 and install the necessary MFC tool or you will face the running problem. But this maybe the only problem and just enjoy the game!
 
-# 3.this is the tree of my project , please put all the file on the proper place , then run it on the IDE
+# 3.I have written two articles/blogs, maybe it will help you understand the whole MFC project
+https://blog.csdn.net/xiao_ZHEDA/article/details/136292091
+
+https://blog.csdn.net/xiao_ZHEDA/article/details/136235864
+
+# 4.this is the tree of my project , please put all the file on the proper place , then run it on the IDE
 C:.
 
 │  raw_game.exe

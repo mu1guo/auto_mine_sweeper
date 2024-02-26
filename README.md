@@ -31,7 +31,8 @@ A C++ project to design the best strategy for minesweeper game
 (10)On Machine part (I see it as a entry of the whole project): it calls the machine func that define the strategy to choose the index of the next pixel chosen by automatically
 
 # 2. How to run this project with GUI？
-1. I have a classmate who had already run this GUI project successfully and our TA has run too,so I will consult them if necessary.
+
+1.I have a classmate who had already run this GUI project successfully and our TA has run too,so I will consult them if necessary.
 
 (1) our classmate's video show: (I just borrowed this video from him)
 

@@ -1,4 +1,4 @@
-# mine_sweeper
+# auto_mine_sweeper
 A C++ project to design the best strategy for minesweeper game
 ​
 # 1.Review more generally about the whole project to generate a readme

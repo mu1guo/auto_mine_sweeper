@@ -36,7 +36,7 @@ A C++ project to design the best strategy for minesweeper game
 
 (1) our classmate's video show: (I just borrowed this video from him)
 
-【中山大学本科生C++大作业】一个很简陋的自动扫雷QWQ_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1VT4112716/?share_source=copy_web&vd_source=8267ceb34da64999c63c43e5711b7eba
 
 2.Just get the project from my github and run the .sln file is ok
 

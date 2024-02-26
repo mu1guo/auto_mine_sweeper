@@ -38,6 +38,83 @@ A C++ project to design the best strategy for minesweeper game
 
 【中山大学本科生C++大作业】一个很简陋的自动扫雷QWQ_哔哩哔哩_bilibili
 
+# 3.this is the tree of my project , please put all the file on the proper place , then run it on the IDE
+C:.
+│  raw_game.exe
+│
+├─evaluate_strategy_grades
+│      evaluation.cpp
+│      evaluation.exe
+│
+└─MineSweeper
+    │  Cbutton.cpp
+    │  Cbutton.h
+    │  Cbutton.rc
+    │  Cbutton.sln
+    │  Cbutton.vcxproj
+    │  Cbutton.vcxproj.filters
+    │  Cbutton.vcxproj.user
+    │  CbuttonDoc.cpp
+    │  CbuttonDoc.h
+    │  CbuttonView.cpp
+    │  CbuttonView.h
+    │  HideButton.cpp
+    │  HideButton.h
+    │  MainFrm.cpp
+    │  MainFrm.h
+    │  resource.h
+    │  StdAfx.cpp
+    │  StdAfx.h
+    │
+    ├─Debug
+    │  │  Cbutton.bsc
+    │  │  Cbutton.exe
+    │  │  Cbutton.exe.recipe
+    │  │  Cbutton.ilk
+    │  │  Cbutton.log
+    │  │  Cbutton.obj
+    │  │  Cbutton.pch
+    │  │  Cbutton.pdb
+    │  │  Cbutton.res
+    │  │  Cbutton.sbr
+    │  │  Cbutton.vcxproj.FileListAbsolute.txt
+    │  │  CbuttonDoc.obj
+    │  │  CbuttonDoc.sbr
+    │  │  CbuttonView.obj
+    │  │  CbuttonView.sbr
+    │  │  MainFrm.obj
+    │  │  MainFrm.sbr
+    │  │  StdAfx.obj
+    │  │  StdAfx.sbr
+    │  │  vc143.idb
+    │  │  vc143.pdb
+    │  │
+    │  └─Cbutton.tlog
+    │          bscmake.command.1.tlog
+    │          bscmake.read.1.tlog
+    │          bscmake.write.1.tlog
+    │          Cbutton.lastbuildstate
+    │          CL.command.1.tlog
+    │          CL.read.1.tlog
+    │          CL.write.1.tlog
+    │          link.command.1.tlog
+    │          link.read.1.tlog
+    │          link.write.1.tlog
+    │          rc.command.1.tlog
+    │          rc.read.1.tlog
+    │          rc.write.1.tlog
+    │
+    └─res
+            bitmap1.bmp
+            BITMAP10.BMP
+            bitmap2.bmp
+            Cbutton - 副本.ico
+            Cbutton.ico
+            Cbutton.rc2
+            CbuttonDoc.ico
+            redmine.bmp
+            Toolbar.bmp
+
 2.Just get the project from my github and run the .sln file is ok
 
 3.Especially, this is a MFC application. I highly recommend you to download the Visual Studio 2022 and install the necessary MFC tool or you will face the running problem. But this maybe the only problem and just enjoy the game!

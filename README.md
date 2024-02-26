@@ -47,7 +47,10 @@ https://blog.csdn.net/xiao_ZHEDA/article/details/136292091
 
 https://blog.csdn.net/xiao_ZHEDA/article/details/136235864
 
-# 4.this is the tree of my project , please put all the file on the proper place , then run it on the IDE
+# 4.evaluate part:
+you can run the evaluation.cpp to evaluate the strategy, some rules between the click counts, accuracy and grades. the code I writes can get full grades finally
+
+# 5.this is the tree of my project , please put all the file on the proper place , then run it on the IDE
 C:.
 
 │  raw_game.exe
